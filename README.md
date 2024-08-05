@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Van Kha</h2>
 <p align="center">
-  <h3 align="center">A passionate Ai Engineer from Vietnam</h3>
+  <h3 align="center">A passionate AI Engineer from Vietnam</h3>
 </p>
 
 > ✍ I'm a student of: Nguyen Tat Thanh University.
