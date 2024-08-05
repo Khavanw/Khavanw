@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Van Kha</h2>
 <p align="center">
-  <h3 align="center">A passionate Ai Engineer from Vietnam</h3>
+  <h3 align="center">A passionate AI Engineer from Vietnam</h3>
 </p>
 
 > ✍ I'm a student of: Nguyen Tat Thanh University.
@@ -56,7 +56,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khavanw&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="Khavanw" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Khavanw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Khavanw&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="Khavanw" width="100%"/>
     </td>
     <td>
       <p align="center"> 
