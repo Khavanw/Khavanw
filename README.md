@@ -1,7 +1,7 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">Hi 👋, I'm Van Kha</h2>
+<h2 align="center">Hi 👋, I'm Kha Nguyen Van</h2>
 <p align="center">
   <h3 align="center">A passionate AI Engineer from Vietnam</h3>
 </p>
@@ -35,6 +35,9 @@ field of Artificial Intelligence.
   <a href="mailto:nguyenvankha0812@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  <a href="https://huggingface.co/vankha" alt="Huggingface" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/hugging-face_app.png"/>
+  </a>
 </p>
 
 ## Skills:
@@ -47,6 +50,8 @@ field of Artificial Intelligence.
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons.png" alt="external-natural-language-processing-big-data-flaticons-lineal-color-flat-icons"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/fluency/48/docker.png"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
