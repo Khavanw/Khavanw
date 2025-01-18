@@ -6,7 +6,10 @@
   <h3 align="center">A passionate AI Engineer from Vietnam</h3>
 </p>
 
-> ✍ I'm a student of: Nguyen Tat Thanh University.
+  > ✍ As a passionate AI Engineer, I thrive in collaborative environments where I can continually learn and grow. Though I may 
+be at the early stages of my journey, my unwavering dedication and commitment to self-improvement drive me to strive for 
+excellence every day. With every opportunity, I aim to expand my knowledge and make meaningful contributions to the 
+field of Artificial Intelligence.
 
 <br />
 
