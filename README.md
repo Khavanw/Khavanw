@@ -17,7 +17,7 @@ field of Artificial Intelligence.
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kha-nguy%E1%BB%85n-v%C4%83n-421b3329b/" target="_blank">
+  <a href="https://www.linkedin.com/in/khanguyenvan/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/vankhane" alt="Facebook">
