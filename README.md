@@ -61,7 +61,7 @@ field of Artificial Intelligence.
 
 <a href="https://github.com/Khavanw/Customer-Support-Chatbot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Customer-Support-Chatbot&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Customer-Support-Chatbot&theme=radical" />
 </a>   
 <a href="https://github.com/Khavanw/Vietnamese_Sentiment_Analysis_And_Recommendation_System/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -69,19 +69,19 @@ field of Artificial Intelligence.
 </a>   
 <a href="https://github.com/Khavanw/Generative-AI-Application/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Generative-AI-Application&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Generative-AI-Application&theme=dark" />
 </a>
 <a href="https://github.com/Khavanw/Face-Liveness-Detection/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Face-Liveness-Detection&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Face-Liveness-Detection&theme=cobalt" />
 </a>   
 <a href="https://github.com/Khavanw/Multiple-Choice-Exam-Scoring-System/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Multiple-Choice-Exam-Scoring-System&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Multiple-Choice-Exam-Scoring-System&theme=synthwave" />
 </a>   
 <a href="https://github.com/Khavanw/Loan-Risk-Prediction/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Loan-Risk-Prediction&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Loan-Risk-Prediction&theme=dracula" />
 </a>   
 
 
