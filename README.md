@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Kha Nguyen Van</h2>
 <p align="center">
-  <h3 align="center">A passionate AI Engineer from Vietnam</h3>
+  <h3 align="center">A Junior AI Engineer from Vietnam</h3>
 </p>
 
   > ✍ As a passionate AI Engineer, I thrive in collaborative environments where I can continually learn and grow. Though I may 
@@ -57,6 +57,34 @@ field of Artificial Intelligence.
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
+
+![Kha's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khavanw&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+
+<a href="https://github.com/Khavanw/Customer-Support-Chatbot/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Customer-Support-Chatbot&theme=radical" />
+</a>   
+<a href="https://github.com/Khavanw/Vietnamese_Sentiment_Analysis_And_Recommendation_System/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Vietnamese_Sentiment_Analysis_And_Recommendation_System&theme=merko" />
+</a>   
+<a href="https://github.com/Khavanw/Generative-AI-Application/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Generative-AI-Application&theme=dark" />
+</a>
+<a href="https://github.com/Khavanw/Face-Liveness-Detection/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Face-Liveness-Detection&theme=cobalt" />
+</a>   
+<a href="https://github.com/Khavanw/Multiple-Choice-Exam-Scoring-System/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Multiple-Choice-Exam-Scoring-System&theme=synthwave" />
+</a>   
+<a href="https://github.com/Khavanw/Loan-Risk-Prediction/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Khavanw&repo=Loan-Risk-Prediction&theme=dracula" />
+</a>   
 
 ## Activities:
 
