@@ -1,19 +1,21 @@
-<!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
+# **Hello, I'm Kha Nguyen Van**🚀 
 
-<h2 align="center">Hi 👋, I'm Kha Nguyen Van</h2>
-<p align="center">
-  <h3 align="center">A Junior AI Engineer from Vietnam</h3>
-</p>
+<img width="33%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-  > ✍ As a passionate AI Engineer, I thrive in collaborative environments where I can continually learn and grow. Though I may 
-be at the early stages of my journey, my unwavering dedication and commitment to self-improvement drive me to strive for 
-excellence every day. With every opportunity, I aim to expand my knowledge and make meaningful contributions to the 
-field of Artificial Intelligence.
+👨‍🎓 I’m a final student studying Artificial Intelligence at Nguyen Tat Thanh University, Viet Nam. 
 
-<br />
+👀 I'm passionate about Machine Learning, Deep Learning, and AI applications.
 
-## 📫 How to reach me:
+🌱 I’m currently focusing on: Computer Vision and Natural Language Processing, MLOps & AI System Design
+
+👥 I’m seeking a fulltime job on **AI Engineer**.
+
+💻 All of my projects are available at [https://github.com/Khavanw](https://github.com/Khavanw)
+
+📧 Contact me: **nguyenvankha0812@gmail.com**
+<br><br><br>
+
+## 📧 How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/khanguyenvan/" target="_blank">
