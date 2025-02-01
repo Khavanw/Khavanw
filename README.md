@@ -59,7 +59,9 @@
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
 </p>
 
-![Kha's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khavanw&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<div align="center">
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khavanw&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Kha's github stats" />
+</div>
 
 <a href="https://github.com/Khavanw/Customer-Support-Chatbot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
