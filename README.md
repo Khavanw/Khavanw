@@ -6,7 +6,7 @@
 
 👀 I'm passionate about Machine Learning, Deep Learning, and AI applications.
 
-🌱 I’m currently focusing on: Computer Vision and Natural Language Processing, MLOps & AI System Design
+🌱 I’m currently focusing on: Computer Vision and Natural Language Processing
 
 👥 I’m seeking a fulltime job on **AI Engineer**.
 
