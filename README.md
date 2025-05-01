@@ -2,7 +2,7 @@
 
 <img width="33%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-👨‍🎓 I’m a final student studying Artificial Intelligence at Nguyen Tat Thanh University, Viet Nam. 
+👨‍🎓 I’m a final student studying Computer Science at Nguyen Tat Thanh University, Viet Nam. 
 
 👀 I'm passionate about Machine Learning, Deep Learning, and AI applications.
 
