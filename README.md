@@ -33,7 +33,7 @@
   <a href="https://www.kaggle.com/khavannguyen" alt="Kaggle" target="_blank" >
     <img src="https://img.icons8.com/bubbles/50/kaggle.png"/>
   </a>
-  <a href="mailto:nguyenvankha0812@gmail.com" alt="Email">
+  <a href="mailto:vankha.contact@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://huggingface.co/vankha" alt="Huggingface" target="_blank">
@@ -63,6 +63,10 @@
   <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Khavanw&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="Kha's github stats" />
 </div>
 
+<a href="https://github.com/Khavanw/multi-agent-chatbot">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=multi-agent-chatbot&theme=cobalt" />
+</a>   
 <a href="https://github.com/Khavanw/Customer-Support-Chatbot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Customer-Support-Chatbot&theme=radical" />
