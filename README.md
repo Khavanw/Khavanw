@@ -65,7 +65,7 @@
 
 <a href="https://github.com/Khavanw/multi-agent-chatbot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=multi-agent-chatbot&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khavanw&repo=Multi-agent-chatbot&theme=cobalt" />
 </a>   
 <a href="https://github.com/Khavanw/Customer-Support-Chatbot/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
