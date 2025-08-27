@@ -35,7 +35,7 @@
 💞️ &nbsp;I’m looking to collaborate on open-source AI projects\
 💭 &nbsp;I'm determined to democratise the access to AI, create helpful technology and advance the open source community\
 ✉️ &nbsp;[Email me](vankha.contact@gmail.com)! I'll try to respond as soon as I can\
-📄 &nbsp;Please have a look at [website](https://clelia.dev) or find me on [LinkedIn](https://www.linkedin.com/in/khanguyenvan/): I'm open to feedback and suggestions!\
+📄 &nbsp;Please have a look at [website](https://portfolio-2f3fb.web.app) or find me on [LinkedIn](https://www.linkedin.com/in/khanguyenvan/): I'm open to feedback and suggestions!\
 🥰 &nbsp;Looking for way to support me and my work? Find everything in [my sponsor page](https://github.com/sponsors/Khavanw)!
 
 
