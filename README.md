@@ -31,7 +31,7 @@
 👋 &nbsp;Hi, I’m Kha Nguyen Van, a 22-years-old AI Engineer\
 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems\
 🎓 &nbsp;I graduated with a major in Engineering from Nguyen Tat Thanh University\
-🌱 &nbsp;I'm cooking and experimenting with AI, python, agentic systems, MLOps, and Computer Vision.\
+🌱 &nbsp;I'm cooking and experimenting with AI, Python, Agentic Systems, MLOps, and Computer Vision.\
 💞️ &nbsp;I’m looking to collaborate on open-source AI projects\
 💭 &nbsp;I'm determined to democratise the access to AI, create helpful technology and advance the open source community\
 ✉️ &nbsp;[Email me](vankha.contact@gmail.com)! I'll try to respond as soon as I can\
