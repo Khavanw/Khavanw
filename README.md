@@ -28,7 +28,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Khavanw&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-👋 &nbsp;Hi, I’m Kha Nguyen, a 22-years-old AI Engineer\
+👋 &nbsp;Hi, I’m Kha Nguyen, a 23-years-old AI Engineer\
 💡 &nbsp;I like automation, simple and yet elegant solutions to everyday problems\
 🎓 &nbsp;I graduated with a major in Engineering from Nguyen Tat Thanh University\
 🌱 &nbsp;I'm cooking and experimenting with AI, Python, Agentic Systems, MLOps, and Computer Vision.\
